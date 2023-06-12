@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I'm a developer with 3 years of coding experience. I'm always eager to learn new things, giving the most out of me in every ticket or task. My compromise is with high qualiy, performant code that could lead projects to a whole new level.
+I'm a developer with 3 years of coding experience. I'm always eager to learn new things, giving my best on every ticket or task. My commitment is to high-quality and performant code that can take projects to the next level.
 
 * 🌍  I'm based in Uruguay
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/josealgorta/)
