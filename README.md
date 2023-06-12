@@ -6,13 +6,13 @@ Software Engineer
 
 I'm a developer with 3 years of coding experience. I'm always eager to learn new things, giving the most out of me in every ticket or task. My compromise is with high qualiy, performant code that could lead projects to a whole new level.
 
-*   🌍  I'm based in Uruguay
-*   🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/josealgorta/)
-*   ✉️  You can contact me at [jpalgort@gmail.com](mailto:jpalgort@gmail.com)
-*   🚀  I'm currently working on [Trupropel](http://trupropel.com)
-*   🧠  I'm learning Next.js and several design patterns.
-   
-### Skills 
+* 🌍  I'm based in Uruguay
+* 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/josealgorta/)
+* ✉️  You can contact me at [jpalgort@gmail.com](mailto:jpalgort@gmail.com)
+* 🚀  I'm currently working on [Trupropel](http://trupropel.com)
+* 🧠  I'm learning Next.js and several design patterns.
+
+### Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -36,25 +36,14 @@ I'm a developer with 3 years of coding experience. I'm always eager to learn new
 </p>
 
 ### Socials
-                  
-                  
-<p align="left">
-  <a href="https://www.github.com/jopealgorta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/josealgorta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.stackoverflow.com/users/14132426/jope-algorta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-  <a href="https://www.twitter.com/jopealgorta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 
-</p>
-
+<p align="left"> <a href="https://www.github.com/jopealgorta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/josealgorta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/14132426/jope-algorta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/jopealgorta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/jopealgorta">
-  <img src="https://github-readme-stats.vercel.app/api?username=jopealgorta&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="jopealgorta's GitHub stats" />
-</a>
-<a href="http://www.github.com/jopealgorta">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jopealgorta&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/jopealgorta" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jopealgorta&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
+<a href="http://www.github.com/jopealgorta"><img src="https://github-readme-stats.vercel.app/api?username=jopealgorta&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="jopealgorta's GitHub stats" /></a>
+
+<a href="http://www.github.com/jopealgorta"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jopealgorta&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/jopealgorta" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jopealgorta&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
