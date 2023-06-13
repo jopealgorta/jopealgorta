@@ -1,6 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is José Pedro Algorta
 ==========================================================================================================================================
 
+<div align="left">
+  <a href="https://app.daily.dev/jalgorta">
+    <img src="https://api.daily.dev/devcards/f3d3e883c0484c14bd8e3caded465a3f.png?r=bns" width="256" align="right" alt="Jope's Dev Card"/>
+  </a>
+</div>
+
 Software Engineer
 -----------------
 
@@ -11,7 +17,7 @@ I'm a developer with 3 years of coding experience. I'm always eager to learn new
 * ✉️  You can contact me at [jpalgort@gmail.com](mailto:jpalgort@gmail.com)
 * 🚀  I'm currently working on [Trupropel](http://trupropel.com)
 * 🧠  I'm learning Next.js and several design patterns.
-
+                                                                                                                                                    
 ### Skills
 
 <p align="left">
