@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==========================================================================================================================================
 
 <div align="left">
-  <a href="https://app.daily.dev/jalgorta">
+  <a href="https://app.daily.dev/jopealgorta">
     <img src="https://api.daily.dev/devcards/f3d3e883c0484c14bd8e3caded465a3f.png?r=bns" width="256" align="right" alt="Jope's Dev Card"/>
   </a>
 </div>
