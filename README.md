@@ -15,7 +15,7 @@ I'm a developer with 3 years of coding experience. I'm always eager to learn new
 * 🌍  I'm based in Uruguay
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/josealgorta/)
 * ✉️  You can contact me at [jpalgort@gmail.com](mailto:jpalgort@gmail.com)
-* 🚀  I'm currently working on [Trupropel](http://trupropel.com)
+* 🚀  I'm currently working at [Trupropel](http://trupropel.com)
 * 🧠  I'm learning Next.js and several design patterns.
                                                                                                                                                     
 ### Skills
