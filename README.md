@@ -1,16 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is José Pedro Algorta
 ==========================================================================================================================================
 
-<div align="left">
-  <a href="https://app.daily.dev/jopealgorta">
-    <img src="https://api.daily.dev/devcards/f3d3e883c0484c14bd8e3caded465a3f.png?r=b70" width="256" align="right" alt="Jope's Dev Card"/>
-  </a>
-</div>
-
 Software Engineer
 -----------------
 
-I'm a developer with 3 years of coding experience. I'm always eager to learn new things, giving my best on every ticket or task. My commitment is to high-quality and performant code that can take projects to the next level.
+I'm a developer with 6 years of coding experience. I'm always eager to learn new things, giving my best on every ticket or task. My commitment is to high-quality and performant code that can take projects to the next level.
 
 * 🌍  I'm based in Uruguay
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/josealgorta/)
@@ -44,14 +38,3 @@ I'm a developer with 3 years of coding experience. I'm always eager to learn new
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/jopealgorta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/josealgorta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/14132426/jope-algorta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/jopealgorta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-
-<a href="http://www.github.com/jopealgorta"><img src="https://github-readme-stats.vercel.app/api?username=jopealgorta&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="jopealgorta's GitHub stats" /></a>
-
-<a href="http://www.github.com/jopealgorta"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jopealgorta&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/jopealgorta" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jopealgorta&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
